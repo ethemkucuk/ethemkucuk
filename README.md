@@ -8,7 +8,8 @@
 - Feel free to reach out to me about C# and JavaScript: [LinkedIn](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/).
 - Contact me at: [ethemk10k@gmail.com](mailto:ethemk10k).
 
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="auto">
+<img src="[https://giphy.com/embed/qgQUggAC3Pfv687qPC](https://github.com/ethemkucuk/ethemkucuk/blob/main/giphy.gif)" width="auto">
+
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/)
 
