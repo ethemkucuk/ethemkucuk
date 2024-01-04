@@ -14,4 +14,5 @@
 - [C#](https://www.w3schools.com/cs/)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-  <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![Alt text describing the GIF](https://giphy.com/embed/qgQUggAC3Pfv687qPC)
+
