@@ -1,6 +1,6 @@
 <img src="https://github.com/ethemkucuk/ethemkucuk/blob/main/Back%20to%20Agenda%20Page.png" width="auto">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true](https://github.com/ethemkucuk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
