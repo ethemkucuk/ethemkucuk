@@ -1,5 +1,5 @@
 # Hello, I'm İbrahim Ethem Küçük!
-
+<img src="https://github.com/ethemkucuk/ethemkucuk/blob/main/Back%20to%20Agenda%20Page.png" width="auto">
 - Profession: I specialize in C# and JavaScript development. You can explore my projects on [GitHub](https://github.com/ethemkucuk/ReCapProject-master).
 - Currently, I'm learning: React, C#, JavaScript, and SQL. You can follow my learning journey on [GitHub](https://github.com/ethemkucuk).
 - Open to collaborations on: [SkyLab](https://github.com/ethemkucuk).
