@@ -1,4 +1,6 @@
 <img src="https://github.com/ethemkucuk/ethemkucuk/blob/main/Back%20to%20Agenda%20Page.png" width="auto">
+
+
 - Profession: I specialize in C# and JavaScript development. You can explore my projects on [GitHub](https://github.com/ethemkucuk/ReCapProject-master).
 - Currently, I'm learning: React, C#, JavaScript, and SQL. You can follow my learning journey on [GitHub](https://github.com/ethemkucuk).
 - Open to collaborations on: [SkyLab](https://github.com/ethemkucuk).
@@ -6,6 +8,7 @@
 - Feel free to reach out to me about C# and JavaScript: [LinkedIn](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/).
 - Contact me at: [ethemk10k@gmail.com](mailto:ethemk10k).
 
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="auto">
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/)
 
