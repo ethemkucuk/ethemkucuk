@@ -8,7 +8,7 @@
 </p>
 
 
-- Contact me at: [ethemk10k@gmail.com](mailto:ethemk10k).
+- E mail : [ethemk10k@gmail.com](mailto:ethemk10k).
 
 ![GIF](https://github.com/ethemkucuk/ethemkucuk/blob/main/giphy.gif)
 
