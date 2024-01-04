@@ -10,6 +10,8 @@
 
 ![GIF](https://github.com/ethemkucuk/ethemkucuk/blob/main/giphy.gif)
 
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
+
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ibrahim-ethem-k%C3%BC%C3%A7%C3%BCk-a2696b201/)
 
