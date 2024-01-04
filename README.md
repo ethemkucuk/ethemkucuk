@@ -1,5 +1,7 @@
 <img src="https://github.com/ethemkucuk/ethemkucuk/blob/main/Back%20to%20Agenda%20Page.png" width="auto">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-ethem-k%c3%bc%c3%a7%c3%bck-a2696b201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-ethem-k%c3%bc%c3%a7%c3%bck-a2696b201/" height="30" width="40" /></a>
@@ -12,7 +14,6 @@
 
 ![GIF](https://github.com/ethemkucuk/ethemkucuk/blob/main/giphy.gif)
 
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
